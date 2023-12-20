@@ -3,7 +3,6 @@ C:\Users\aravindr\Desktop\app\CA\calc\Calculator\bin\Debug\net7.0\Calculator.dep
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\bin\Debug\net7.0\Calculator.dll
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\bin\Debug\net7.0\Calculator.pdb
-C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\refint\Calcula
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.pdb
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
 C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\ref\Calculator.dll
+C:\Users\aravindr\Desktop\app\CA\calc\Calculator\obj\Debug\net7.0\Calculator.sourcelink.json
